@@ -1,3 +1,6 @@
+<img width="1907" height="962" alt="st4" src="https://github.com/user-attachments/assets/363b24d2-9690-4d8e-99ab-9b66cd9aedfb" />
+<img width="1542" height="652" alt="st2" src="https://github.com/user-attachments/assets/7503d232-65ca-4b08-a9a5-9c95c410b6a9" />
+<img width="1552" height="776" alt="s3" src="https://github.com/user-attachments/assets/13a5c06c-47b4-4bb5-8952-b911eb418c25" />
 # StudentPerformance_ML — Setup & Run
 
 Quick instructions to prepare and run the Streamlit app locally.
