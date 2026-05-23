@@ -40,6 +40,7 @@ def main():
 
     # Sidebar navigation
     page = render_sidebar()
+    # st.write(f"DEBUG: Selected page is '{page}'")
 
     # Page routing
     if page == 'Home':

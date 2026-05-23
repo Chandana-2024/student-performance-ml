@@ -11,9 +11,6 @@ def render_sidebar():
     ]
     icons = ['🏠','📂','📊','🤖','🔮','🔍','📄']
 
-    for i, m in enumerate(menu):
-        if st.sidebar.button(f"{icons[i]}  {m}"):
-            return m
+    choice = st.sidebar.radio("Navigation", menu, format_func=lambda x: f"{icons[menu.index(x)]} {x}")
+    return choice
 
-    # default
-    return 'Home'
